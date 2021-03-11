@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clozd-interview-project/static/css/main.11b71a9c.chunk.css",
+    "main.js": "/clozd-interview-project/static/js/main.35943d1b.chunk.js",
+    "main.js.map": "/clozd-interview-project/static/js/main.35943d1b.chunk.js.map",
+    "runtime-main.js": "/clozd-interview-project/static/js/runtime-main.0075d378.js",
+    "runtime-main.js.map": "/clozd-interview-project/static/js/runtime-main.0075d378.js.map",
+    "static/js/2.2f88b3e3.chunk.js": "/clozd-interview-project/static/js/2.2f88b3e3.chunk.js",
+    "static/js/2.2f88b3e3.chunk.js.map": "/clozd-interview-project/static/js/2.2f88b3e3.chunk.js.map",
+    "static/js/3.4a128101.chunk.js": "/clozd-interview-project/static/js/3.4a128101.chunk.js",
+    "static/js/3.4a128101.chunk.js.map": "/clozd-interview-project/static/js/3.4a128101.chunk.js.map",
+    "index.html": "/clozd-interview-project/index.html",
+    "static/css/main.11b71a9c.chunk.css.map": "/clozd-interview-project/static/css/main.11b71a9c.chunk.css.map",
+    "static/js/2.2f88b3e3.chunk.js.LICENSE.txt": "/clozd-interview-project/static/js/2.2f88b3e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0075d378.js",
+    "static/js/2.2f88b3e3.chunk.js",
+    "static/css/main.11b71a9c.chunk.css",
+    "static/js/main.35943d1b.chunk.js"
+  ]
+}
