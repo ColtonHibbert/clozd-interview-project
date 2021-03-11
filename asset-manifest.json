@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/clozd-interview-project/static/css/main.11b71a9c.chunk.css",
-    "main.js": "/clozd-interview-project/static/js/main.35943d1b.chunk.js",
-    "main.js.map": "/clozd-interview-project/static/js/main.35943d1b.chunk.js.map",
+    "main.js": "/clozd-interview-project/static/js/main.2296a1f2.chunk.js",
+    "main.js.map": "/clozd-interview-project/static/js/main.2296a1f2.chunk.js.map",
     "runtime-main.js": "/clozd-interview-project/static/js/runtime-main.0075d378.js",
     "runtime-main.js.map": "/clozd-interview-project/static/js/runtime-main.0075d378.js.map",
     "static/js/2.2f88b3e3.chunk.js": "/clozd-interview-project/static/js/2.2f88b3e3.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0075d378.js",
     "static/js/2.2f88b3e3.chunk.js",
     "static/css/main.11b71a9c.chunk.css",
-    "static/js/main.35943d1b.chunk.js"
+    "static/js/main.2296a1f2.chunk.js"
   ]
 }
